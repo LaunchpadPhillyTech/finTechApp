@@ -1,4 +1,4 @@
-// document.getElementById('transactionForm').addEventListener('submit', async (e) => { });
+// Project Instruction 
 
 // Add an event listener to handle the submission of the transaction form
 // Prevent the default form submission behavior to manage it using JavaScript
