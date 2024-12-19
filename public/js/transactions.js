@@ -1,4 +1,5 @@
-// document.addEventListener('DOMContentLoaded', function() { });
+// Winter break Project Instructions 
+
 // Add an event listener to the DOMContentLoaded event to ensure the script runs after the page content loads
 
 // Select all filter buttons and transaction rows from the DOM using query selectors
